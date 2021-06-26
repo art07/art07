@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/21006294/123514945-188cf580-d69e-11eb-9568-c27c2d392cb9.png" style="max-width;100%;">
+<img src="https://user-images.githubusercontent.com/21006294/123515792-8e469080-d6a1-11eb-8805-9734026b70dd.png" style="max-width;100%;">
 </p>
 
 <h1 align="center">Hi, my name is ArtyomD!</h1>
