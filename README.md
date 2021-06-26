@@ -1,3 +1,8 @@
+### 🛠 &nbsp;Tech Stack
+
+![Golang](https://user-images.githubusercontent.com/21006294/123513609-bed4fd00-d696-11eb-8a0f-16d220972d4f.png)
+![GoLand](https://user-images.githubusercontent.com/21006294/123513614-c0062a00-d696-11eb-941e-48906b0e8e49.png)
+
 ### 🤝🏻 &nbsp;Contacts
 
 <p align="center">
