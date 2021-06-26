@@ -13,6 +13,8 @@
 ![Heroku](https://user-images.githubusercontent.com/21006294/123513612-bf6d9380-d696-11eb-957e-00599ed74f76.png)
 ![GitHub](https://user-images.githubusercontent.com/21006294/123515259-4d4d7c80-d69f-11eb-83db-828b5ca24a18.png)
 ![Python](https://user-images.githubusercontent.com/21006294/123513617-c09ec080-d696-11eb-8867-4638c8603ed1.png)
+![Windows](https://user-images.githubusercontent.com/21006294/123516946-5d695a00-d6a7-11eb-8285-dbdba514a821.png)
+![Linux](https://user-images.githubusercontent.com/21006294/123516945-5cd0c380-d6a7-11eb-8327-e730b492f48d.png)
 
 <h2 align="left">🤝🏻 Contacts</h2>
 
