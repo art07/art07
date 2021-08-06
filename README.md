@@ -17,8 +17,7 @@
 ![Windows](https://user-images.githubusercontent.com/21006294/123516946-5d695a00-d6a7-11eb-8285-dbdba514a821.png)
 ![SQLite](https://user-images.githubusercontent.com/21006294/123513622-c1375700-d696-11eb-8b9b-c90500fb8645.png)
 ![PostgreSql](https://user-images.githubusercontent.com/21006294/123513616-c0062a00-d696-11eb-9f82-400564b40d0d.png)
-![HTML](https://user-images.githubusercontent.com/21006294/128007038-74a3efcf-b7ca-4e27-8580-426cec9635a6.png)
-![CSS](https://user-images.githubusercontent.com/21006294/128007047-4e2d628f-b1ff-43d7-884d-922ad84d4160.png)
+![Redis](https://user-images.githubusercontent.com/21006294/128478649-2057761b-227b-41a1-b928-c1f4cf294ca1.png)
 
 <h2 align="left">🤝🏻 Contacts</h2>
 
