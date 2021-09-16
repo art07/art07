@@ -16,6 +16,7 @@
 ![Heroku](https://user-images.githubusercontent.com/21006294/123513612-bf6d9380-d696-11eb-957e-00599ed74f76.png)
 ![Linux](https://user-images.githubusercontent.com/21006294/123516945-5cd0c380-d6a7-11eb-8327-e730b492f48d.png)
 ![Ubuntu](https://user-images.githubusercontent.com/21006294/128007021-d1eeb0ae-2448-4236-b683-7c2477b85c5b.png)
+![Kafka](https://user-images.githubusercontent.com/21006294/133587985-58c3837e-8020-4d2b-afa8-e2b279f082ad.png)
 ![Postman](https://user-images.githubusercontent.com/21006294/132817224-00fa4fd6-0bd8-495c-8185-c08d3f3a58a9.png)
 
 <h2 align="left">🤝🏻 Contacts</h2>
