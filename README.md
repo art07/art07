@@ -25,4 +25,4 @@
 <a href="mailto:artlock1318@gmail.com"><img src="https://user-images.githubusercontent.com/21006294/123512240-0bb4d580-d68f-11eb-857b-76025c89d2cf.png"/></a>
 
 -----
-Credits: [Artyom Dubinin](https://github.com/art07)
+Credits: [Artem Dubinin](https://github.com/art07)
